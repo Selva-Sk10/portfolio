@@ -19,7 +19,8 @@ btnArr.forEach((btnElem,index) =>{
 
 const urlArr = [
     "https://selva-sk10.github.io/fashionate/",
-    "https://selva-sk10.github.io/barberShop/"
+    "https://selva-sk10.github.io/barberShop/",
+    "https://selva-sk10.github.io/electronite/"
 ];
 let proButtonFun = () =>{
     let ranVal = Math.floor(Math.random() * urlArr.length);
