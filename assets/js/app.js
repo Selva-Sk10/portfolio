@@ -21,7 +21,8 @@ const urlArr = [
     "https://selva-sk10.github.io/fashionate/",
     "https://selva-sk10.github.io/barberShop/",
     "https://selva-sk10.github.io/electronite/",
-    "https://selva-sk10.github.io/flag_api/"
+    "https://selva-sk10.github.io/flag_api/",
+    "https://selva-sk10.github.io/theBook/"
 ];
 let proButtonFun = () =>{
     let ranVal = Math.floor(Math.random() * urlArr.length);
